@@ -108,7 +108,7 @@
 * [BinCAT](https://github.com/airbus-seclab/bincat) - Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection.
 
 ### Php
-* [XSym] (https://github.com/huddy1985/XSym-php-symbolic-execution.git) - Php code turns to c code, using klee for execution.
+* [XSym] (https://github.com/ksluckow/awesome-symbolic-execution.git) - Php code turns to c code, using klee for execution.
 
 ### Misc
 
